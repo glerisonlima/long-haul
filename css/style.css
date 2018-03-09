@@ -725,7 +725,7 @@ MENU STYLING
       background: seagreen;
       border-bottom: 2px solid #349e63; }
       .nav-collapse ul li a {
-        color: black;
+        color: #000;
         text-decoration: none;
         display: block;
         padding: 5px 2rem; }
