@@ -1,7 +1,7 @@
-title: Long Haul
-description: Long Form Jekyll theme built with SASS / COMPASS / SUSY
+title: Glerison Lima
+description: Este é meu Blog iremos falar sobre os mais diversos assuntos sobre tecnologia
 
-url: http://brianmaierjr.github.com/long-haul
+url: https://glerisonlima.github.io/
 baseurl: ""
 paginate_path: "blog/page:num/"
 permalink: blog/:title/
@@ -20,9 +20,9 @@ navigation:
    url: /contact
 
 social:
-   github: brianmaierjr
-   twitter: brianmaierjr
-   facebook: brianmaierjr
-   email: brimaidesigns@gmail.com
+   github: glerisonlima
+   twitter: GlerisonL
+   facebook: glerison.lima
+   email: glerisonlima@gmail.com
 
 google_analytics: "UA-58263416-1"
