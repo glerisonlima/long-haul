@@ -725,7 +725,7 @@ MENU STYLING
       background: seagreen;
       border-bottom: 2px solid #349e63; }
       .nav-collapse ul li a {
-        color: white;
+        color: black;
         text-decoration: none;
         display: block;
         padding: 5px 2rem; }
@@ -820,7 +820,7 @@ HEADER STYLING
     font-weight: 800;
     text-transform: uppercase; }
     .header h1 a {
-      color: white;
+      color: black;
       text-decoration: none; }
 
 /***************
